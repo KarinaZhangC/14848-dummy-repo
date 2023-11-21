@@ -1,6 +1,6 @@
 # 14848-dummy-repo
 Teammate: Giselle (Caiyi) Deng, Andrew ID: caiyid </br>
-This is a dummy repository for 14848 Cloud Project. It contains a simple python program (hello.py) and Sonar-project.properties file. </br>
+This is a dummy repository for 14848 Cloud Project. It contains a simple python program (hello.py) and a Sonar-project.properties file. </br>
 It will be scanned during a Jenkins Pipeline job and the scanning result will be shown on SonarQube. </br>
 
 References:
